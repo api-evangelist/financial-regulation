@@ -1,11 +1,19 @@
+aid: financial-regulation
 name: Financial Regulation
 description: Financial Regulation is a financial management concept, tool, or practice
   used to manage monetary operations, reporting, or compliance. It helps organizations
   maintain accurate financial records, optimize cash flow, and meet regulatory requirements.
-url: null
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/financial-regulation/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 tags:
-- Financial Regulation
-created: '2025'
-modified: '2025'
+  - Financial Regulation
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
